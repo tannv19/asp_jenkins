@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "43o6u6Aawhnw7E+o8tZzZ1BQuIjNEP193BAcB8zwVBZAhmhJyWINpXuA8FwsLjIUdr61zyAitwQ1rilmByFrtA==",
+  "success": true,
+  "projectFilePath": "D:\\techmaster\\docker\\asp.net_project\\asp.net_project.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://packages.nuget.org/v1/FeedService.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
